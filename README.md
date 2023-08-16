@@ -1,2 +1,2 @@
 # sql_firebird
-Repósitorio com vários exemplos de SQL úteis usado no dia a dia
+Repósitorio com vários exemplos de SQL úteis usados no dia a dia
